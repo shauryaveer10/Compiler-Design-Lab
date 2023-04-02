@@ -1,10 +1,7 @@
 #include<iostream>
 #include<bits/stdc++.h>
 using namespace std;
-/**
-Author : Ishita Sharma
-My practical file which contains examples and theory - Link (https://docs.google.com/document/d/1J_GR_ahWRLsUX14rKKI9x8d4u2FqLTxv/edit?usp=sharing&ouid=107299008404639735755&rtpof=true&sd=true)
-**/
+
 void print(vector<vector<vector<int> > > table){
 	cout<<"  STATE/INPUT  |";
 	char a='a';
